@@ -48,24 +48,26 @@ button {
     color: white;
 }
 
-#button_1 {
-    background-color: #99cc33; /*green*/
+#button_2, #button_4 {
+    background-color: #aee0d6; /*green*/
 }
 
+/*
 #button_2 {
-    background-color: #3399ff; /*blue*/
+    background-color: #3399ff; /*blue
 }
 
 #button_3 {
-    background-color: #993399; /*purple*/
+    background-color: #993399; /*purple
+}
+*/
+
+#button_1, #button_5 {
+    background-color: #f36f6f; /*red*/
 }
 
-#button_4 {
-    background-color: #ff3333; /*red*/
-}
-
-#button_5 {
-    background-color: #ff9900; /*yellow*/
+#button_3 {
+    background-color: #ffb782; /*yellow*/
 }
 
 #mainPage {

@@ -1,5 +1,5 @@
-var LED_SERVICE = 'AAB0';
-var SWITCH_CHARACTERISTIC = 'AAB1';
+var LED_SERVICE = 'AAB4';
+var SWITCH_CHARACTERISTIC = 'AAB5';
 
 var app = {
     initialize: function() {
